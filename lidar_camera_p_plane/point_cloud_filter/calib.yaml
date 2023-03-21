@@ -1,0 +1,12 @@
+%YAML:1.0
+---
+
+input_path:/home/ljj/work/lidar_camera_p_plane/pcd
+output_path:/home/ljj/work/lidar_camera_p_plane/pcd_filter/
+x_max:0.8
+x_min:-0.8
+y_max:2
+y_min:-2
+z_max:2
+z_min:-2
+ransac_threshold:0.01
